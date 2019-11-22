@@ -1,0 +1,2 @@
+# staticwebsite
+Static website MKdocs
